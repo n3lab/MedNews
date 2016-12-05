@@ -1,0 +1,21 @@
+PODS:
+  - Alamofire (4.2.0)
+  - Kingfisher (3.2.1)
+  - SwiftSpinner (1.1.0)
+  - SwiftyJSON (3.1.3)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.0)
+  - Kingfisher (~> 3.0)
+  - SwiftSpinner
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: aa2e09d871c9160ac53c90e83c68064a94e3dfbe
+  Kingfisher: 64ef28c6d3d6f344e3ae2d7f5c9da80439505d99
+  SwiftSpinner: c03815614599b91eea46594bd52ba742849d0414
+  SwiftyJSON: 38a8ea2006779c0fc4c310cb2ee8195327740faf
+
+PODFILE CHECKSUM: c547718998932b37ccd1fcab17be316972012a4f
+
+COCOAPODS: 1.1.0.rc.2
